@@ -1,12 +1,10 @@
 # 🚀 Full Stack Project
-
 ## 📌 Overview
 
 This is a full-stack web application with a separate frontend and backend.
 
 * The **frontend** is built using Vite + React
 * The **backend** is built using Node.js and Express
-
 “The project structure supports independent development and execution of both frontend and backend.
 
 ---
@@ -28,7 +26,7 @@ This is a full-stack web application with a separate frontend and backend.
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```bash
 project-root/
